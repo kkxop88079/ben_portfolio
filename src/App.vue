@@ -4,7 +4,7 @@ import Work from './components/work/index.vue';
 </script>
 
 <template>
-  <div class="overflow-x-hidden">
+  <div class="overflow-hidden">
     <Header></Header>
     <Work></Work>
   </div>
